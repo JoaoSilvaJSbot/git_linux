@@ -1,0 +1,7 @@
+Olá!
+Este é um arquivo de texto criado por você. Você pode edita-lo a vontade e 
+quando quiser, sinta-se livre.
+
+Print:
+"Hello, world!"
+ 
