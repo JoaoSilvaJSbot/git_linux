@@ -4,4 +4,7 @@ quando quiser, sinta-se livre.
 
 Print:
 "Hello, world!"
+
+Atualização:
+- Commitar para um repositório.
  
