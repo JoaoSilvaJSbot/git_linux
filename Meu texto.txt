@@ -1,6 +1,15 @@
 Olá!
 Este é um arquivo de texto criado por você. Você pode edita-lo a vontade e 
 quando quiser, sinta-se livre.
+_________________
+Capítulo 1
+_________________
+
+ ¹Voltei com meus estudos, novo ano novas metas. Estou praticando um pouco
+de Linux, Git, HTML, CSS, SASS e JavaScript. Nada demais até então, afinal, 
+todo mundo faz isso; certo?
+ Vou atualizando conforme o tempo, até achar que é a hora de lançar um
+capítulo dois e encerrar esse. 
 
 Print:
 "Hello, world!"
@@ -8,3 +17,6 @@ Print:
 Atualização:
 - Commitar para um repositório.
  
+Atualização II:
+- Alguns acréscimos no texto¹.
+- Commitar para um repositório.
