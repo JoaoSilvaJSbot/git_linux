@@ -1,0 +1,16 @@
+Olá!!
+
+ ³Sim, este é o parágrafo terceiro do meu texto e está simulando uma linha de
+código. Continua sendo um teste para git linux. Acredito que estou me saindo
+bem, fixando com a prática a todo momento.
+ Logo menos sei que irei querer testar o git para projetos pessoais de 
+prática.
+
+.
+.
+const git = prompt("Digite um comando Git: ")
+.
+console.log("git commit -m "lancei a braba"")
+.
+.
+.
