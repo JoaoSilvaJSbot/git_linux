@@ -9,7 +9,11 @@ _________________
 de Linux, Git, HTML, CSS, SASS e JavaScript. Nada demais até então, afinal, 
 todo mundo faz isso; certo?
  Vou atualizando conforme o tempo, até achar que é a hora de lançar um
-capítulo dois e encerrar esse. 
+capítulo dois e encerrar esse.
+ ²FINALMENTE! Graças a muita pesquisa eu finalmente consegui dar push com
+o git em linux com essa maquina. Eu não tava botando muita fé de que 
+conseguiria resolver isso, mas agora botei muito mais em prova que, os
+documentos dos programas e seus manuais ajudam demais!
 
 Print:
 "Hello, world!"
@@ -20,3 +24,7 @@ Atualização:
 Atualização II:
 - Alguns acréscimos no texto¹.
 - Commitar para um repositório.
+
+Atualização III:
+- Alguns acreścimos no texto².
+- Push para repositório Git.
